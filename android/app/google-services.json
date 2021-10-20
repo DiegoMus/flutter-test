@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1038484298571",
+    "project_id": "itys-e412d",
+    "storage_bucket": "itys-e412d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038484298571:android:74d80f7903f45c53d066ce",
+        "android_client_info": {
+          "package_name": "com.itys.itys_registro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038484298571-3oluqnjaqgts4a8f4b2ph2gspf9r0h3q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itys.itys_registro",
+            "certificate_hash": "710c8f879ae9cd7c69047ca68509e81de369557f"
+          }
+        },
+        {
+          "client_id": "1038484298571-74afo5fit4n0enmgvf054avcrg94ms45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1hcZSXR5_WWXrypDgxmtzB-HfXZIJ-Ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038484298571-74afo5fit4n0enmgvf054avcrg94ms45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
